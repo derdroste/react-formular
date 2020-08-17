@@ -113,3 +113,4 @@ const mapDispatch = (dispatch) => ({});
 const mapState = (state) => ({});
 
 export default connect(mapState, mapDispatch)(Page);
+
